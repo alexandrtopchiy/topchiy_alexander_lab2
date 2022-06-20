@@ -1,0 +1,10 @@
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\bin\Debug\sem2_lab2.exe.config
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\bin\Debug\sem2_lab2.exe
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\bin\Debug\sem2_lab2.pdb
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\obj\Debug\sem2_lab2.csproj.AssemblyReference.cache
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\obj\Debug\sem2_lab2.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\obj\Debug\sem2_lab2.exe
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\obj\Debug\sem2_lab2.pdb
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexander\source\repos\sem2_lab2\sem2_lab2\obj\Debug\sem2_lab2.csproj.CopyComplete
